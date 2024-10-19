@@ -92,13 +92,13 @@ Change permissions for this file. Right click, then Properties -> Security tab -
 Within the osTicket installation webpage, create credentials and provide the necessary information. The MySQL database name should be "osTicket" and the password for the database must be the same as the root account for MySQL. This is distinct from the credentials for the admin account for osTicket. 
 Before we can continue, we must install HeidiSQL (a user interface for MySQL).
 Accept default settings. Create a new session (bottom left hand corner), select "new" and login to the SQL database with your root credentials. Then rename the session "osTicket" with no spaces. <br/>
-<img src="https://i.imgur.com/tSDglKg.png" height="40%" width="40%" alt="heidisql configuration."/>
+<img src="https://i.imgur.com/tSDglKg.png" height="50%" width="50%" alt="heidisql configuration."/>
 <br />
 <br />
 
 
 Finish the installation of osTicket by selecting "Install Now." If you successfully followed along, you should see the following page. Observe the links at the bottom of the page. Bookmark the web pages for admin control and general users. Congratulations! <br/>
-<img src="https://i.imgur.com/f7PTmOO.png" height="40%" width="40%" alt="Register new PHP version."/>
+<img src="https://i.imgur.com/f7PTmOO.png" height="50%" width="50%" alt="Register new PHP version."/>
 <br />
 <br />
 </p>
