@@ -2,7 +2,7 @@
 
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/29bda7f2-2c99-40b8-a338-1448bc043ff1.com/214c16a85047ad91f1dfcddfb916db68" height="40%" width="40%" alt="osTicket logo"/>
  
- <h2># osTicket-Setup</h2>
+ <h1># osTicket-Setup</h1>
 This tutorial outlines the prerequisites, installation, and configuration of the open-source help desk ticketing system osTicket.
 <br />
 
